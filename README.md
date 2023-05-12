@@ -24,7 +24,7 @@ You can install the Python dependencies with pip:
 
 1. Clone the repository and navigate to its directory.
 2. Replace `'C:/Users/jared/Pictures/MidJourney'` in the code with the path to your own image directory, and `'image_features.pkl'` with your preferred path and filename for the file that will store the image features.
-3. Run the Streamlit app with the following command: streamlit run app.py
+3. Run the Streamlit app with the following command: `streamlit run app.py`
 4. Open your web browser and go to `http://localhost:8501` to see the app.
 5. Enter a keyword to search for in the text input box and press enter.
 
